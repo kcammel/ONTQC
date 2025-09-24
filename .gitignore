@@ -1,0 +1,10 @@
+# Work dir and logs from nextflow
+work/*
+.nextflow.log*
+
+# Python venv
+venv/*
+
+# tmp
+.nextflow/*
+.tmp/*
